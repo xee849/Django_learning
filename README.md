@@ -1,2 +1,2 @@
 # Django_learning
-django step by step learning
+django step by step learning repo
